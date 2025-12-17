@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Track Monitor</string>
+    <string name="google_maps_key">"AIzaSyD_V9EKEDpjereFYgkob4jtK_KNdnqul2w</string>
+<!--    <string name="google_maps_key">"AIzaSyAF4lu2mSOzYTE9mEvEn9DYwNQrxAO3pok</string>-->
+</resources>

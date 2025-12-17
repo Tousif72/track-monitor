@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Track Monitor</string>
+    <string name="google_maps_key">"AIzaSyD_V9EKEDpjereFYgkob4jtK_KNdnqul2w</string>
+    <style name="Theme.TrackMonitor" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#FF0A3D91</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
